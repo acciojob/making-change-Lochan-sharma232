@@ -1,10 +1,4 @@
 const makeChange = (c) => {
-function makeChange(amount){
-q=25;//quarter
-	d=10;//dime
-	n=5//nickel
-	p=1;//penny
-}
 const result={
 	q:0,
 	d:0,
